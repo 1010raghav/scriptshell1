@@ -6,3 +6,5 @@ read m
 a=$(($n+$m))
 echo "addition of two numbers are $a"
 
+b=$(($n-$m))
+echo "substraction of two number is $b"
